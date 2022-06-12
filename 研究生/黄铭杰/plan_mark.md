@@ -34,3 +34,14 @@
 
 ### 1月22日
 1.阅读论文Intra-Document Cascading: Learning to Select Passages for Neural Document Ranking  
+
+### 3月5日
+1.阅读论文Zeyang Peng-Encoding Text Information By Pre-trained Model For Authorship Verification，并做阅读笔记
+2.阅读论文Zhijie Zhang-Style Change Detection Based On Writing Style Similarity，并做阅读笔记
+3.刷蓝桥杯官网算法题7道
+4.跑作者识别代码
+
+### 3月6日
+1.跑作者识别代码
+2.刷蓝桥杯官网算法题
+
